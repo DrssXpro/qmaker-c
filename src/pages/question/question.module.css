@@ -1,0 +1,7 @@
+.component-wrapper {
+  margin: 12px;
+  border-bottom: 1px solid #eee;
+  padding: 12px;
+  border-radius: 3px;
+  cursor: pointer;
+}
